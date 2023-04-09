@@ -8,13 +8,13 @@ body {
   background-color: #202124;
   font-family: sans-serif;
 }
-.home-body {
+/* .home-body {
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-}
+} */
 /* header style  */
 header {
   display: flex;
